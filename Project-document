@@ -12,4 +12,6 @@ Display all employee list component
 Update the information
 Delete the information
 
+database file : MySQL Connection
+database config : database.prop
 
